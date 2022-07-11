@@ -39,7 +39,7 @@ object Swappy {
 </a>
 
 [twitter]: https://twitter.com/@swappy011
-[youtube]: https://www.youtube.com/user/Swappyzin/
+[youtube]: https://www.youtube.com/channel/UCBrVQkHaoUaM10TLrtyYi_A
 [instagram]: https://www.instagram.com/Lucasr_matos/
 <br>
 
