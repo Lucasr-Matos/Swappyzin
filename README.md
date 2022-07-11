@@ -8,13 +8,14 @@ I'm here to create some projects and learn a little bit.
 
 kotlin
 object Swappy {
+ ```Kotlin
  val name = "Lucas Rodrigues de Matos"
  
  val languages = listOf("Java", "JavaScript", "Php", "Html", "Css") 
 
 }
 
-
+```
 ## **Linguagens e Ferramentas:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
