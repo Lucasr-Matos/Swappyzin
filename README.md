@@ -1,1 +1,1 @@
-<h1 allign="center> Swappy's Profile</h1>
+<h1 align="center> Swappy's Profile </h1>
