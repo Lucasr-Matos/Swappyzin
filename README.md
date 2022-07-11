@@ -6,9 +6,9 @@ I'm here to create some projects and learn a little bit.
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-kotlin
-object Swappy {
  ```Kotlin
+object Swappy {
+ 
  val name = "Lucas Rodrigues de Matos"
  
  val languages = listOf("Java", "JavaScript", "Php", "Html", "Css") 
