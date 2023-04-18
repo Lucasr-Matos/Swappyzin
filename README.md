@@ -11,7 +11,7 @@ object Swappy {
  
  val name = "Lucas Rodrigues de Matos"
  
- val languages = listOf("Java", "JavaScript", "Php", "Html", "Css") 
+ val languages = listOf("Java", "JavaScript", "Php", "Html", "Css","Phyton") 
 
 }
 
