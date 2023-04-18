@@ -45,7 +45,5 @@ object Swappy {
 
 #### Rede Sociais!
 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
 📷 [instagram][instagram] **|** 
 
