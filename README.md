@@ -7,7 +7,7 @@ I'm here to create some projects and learn a little bit.
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
  ```Kotlin
-object Swappy {
+object Lucasr-Matos {
  
  val name = "Lucas Rodrigues de Matos"
  
@@ -30,15 +30,14 @@ object Swappy {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Swappyzin">
+<a href="https://github.com/Lucasr-Matos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swappyzin&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Swappyzin">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Swappyzin&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/Lucasr-Matos">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucasr-Matos&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[twitter]: https://twitter.com/@swappy011
 [youtube]: https://www.youtube.com/channel/UCBrVQkHaoUaM10TLrtyYi_A
 [instagram]: https://www.instagram.com/Lucasr_matos/
 <br>
